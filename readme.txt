@@ -1,0 +1,6 @@
+Program Description: This program plays a quiz game.
+Program file: QuizGame.cpp
+Programmer: Huan Huang
+
+Play the game and look at your project directory. Examine the files that are created. A game history file and user history files.
+The game begins by prompting for the user information (the date and user game alias1). The user game alias1 is used as the name of the user game score history output file. The user is asked for the number of questions and the difficulty level of the game. If the number of questions entered by the user is not within the specified acceptable range (1-15), then the user is repeatedly prompted until a valid value is entered. If the difficulty level entered by the user is not within the acceptable range (1-3), an error msg is displayed and the program terminates. A running score is calculated, displayed, and written to each userHistory.txt output file at game end. The contents of the gameHistory.txt file is appended with the latest game results for each new player results. 

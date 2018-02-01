@@ -1,0 +1,90 @@
+Functions written by other programmers, are called what kind of functions?
+A
+predefined
+prepackaged
+sketchy
+functional
+Given  cin.get(u);  u must be what type of variable?
+C
+string
+pointer
+char
+fstream
+What function returns (but not removes) the next char from input stream?
+D
+lookie
+selfie	
+get
+peek
+What stream function lets you put the last char extracted back in the input stream?
+A
+putback
+backput
+peek
+lookie
+What data type has member functions get, ignore, etc.
+B
+iomanip
+istream
+pstream		
+ioyouone	
+In C++ istream and ostream are called what?
+D
+streamers
+thingys
+grits
+classes
+cin is called what type of object?
+C
+ofstream
+ifstream
+istream
+double
+true or false: In C++, the dot is an operator called the member access operator.
+D
+false
+false-ish
+nope
+true
+Include what to use the manipulator setprecision?
+A
+iomanip
+iostream
+fstream
+string
+What statement can be used in place of cin >> fixed; ?
+A
+cin.setf(ios::fixed);
+none
+anything
+hello.kitty(iof::fixed)
+Use manipulator setw to output value of expression in specific number of columns.
+C
+False
+Red
+True
+possibly
+What stream function disables the manipulator left?
+B
+unsettle
+unsetf
+unsetr
+noLefties
+What statement can be used in place of cin >> left;.
+A
+cin.setf(ios::left);
+cout.getf(iof::left);
+getLefty
+hello.kitty(cat::fixd)
+Include what header file to use a parameterized stream manipulator
+D
+ioduC++
+iowomanip
+ioU1Beer
+iomanip
+What header file is used for file I/O?
+A
+fstream
+ioscream
+iomanip
+iostream
