@@ -437,11 +437,16 @@ void gameInfo()
 {
     cout <<"\n-------------------- About the Game ----------------------------------";
 
+    cout << " Program Description: This program plays a quiz game." << endl;
+    cout << " Programmer: Huan Huang" << endl;
+    cout << " Email: hrhuang@live.com" << endl;
+    cout << " Play the game and look at your project directory.\n Examine the files";
+    cout << " that are created. A game history file and user history files.\n";
+
     cout <<"\n\n The game begins by prompting for the user information\n";
     cout <<" (the date and user game alias1). The user game alias1\n";
     cout <<" is used as the name of the user game score history output\n";
-    cout <<" file. Format of this output file is same as the sample input\n";
-    cout <<" files for project 1, and output for project 2. The user is asked\n";
+    cout <<" file. The user is asked\n";
     cout <<" for the number of questions and the difficulty level of the\n";
     cout <<" game. If the number of questions entered by the user is not\n";
     cout <<" within the specified acceptable range (1-15), then the user is\n";
@@ -453,16 +458,7 @@ void gameInfo()
     cout <<" of the gameHistory.txt file is appended with the latest game\n";
     cout <<" results for each new player results.\n";
     cout <<" sorted results are written to the gameHistory.txt output file.\n";
-    cout <<" Some of the new to this version:\n";
-    cout <<" - gameHistory.txt contains game info for all users sorted by score.\n";
-    cout <<" - User history is stored for both users in two-player mode.\n";
-    cout <<" - Game options are presented with a menu of 4 options.\n";
 
-    cout << " Program Description: This program plays a quiz game." << endl;
-    cout << " Programmer: Huan Huang" << endl;
-    cout << " Email: hrhuang@live.com" << endl;
-    cout << " Play the game and look at your project directory.\n Examine the files";
-    cout << " that are created. A game history file and user history files.\n";
     cout << "----------------------------------------------------------------------\n\n";
 };
 
